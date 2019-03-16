@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Servlet implementation class LoginServlet
+ * Servlet implementation class LoginServlet  testowanie gita
  */
 @WebServlet("/LoginServlet")
 public class LoginServlet extends HttpServlet {
